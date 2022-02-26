@@ -1,0 +1,27 @@
+h2{
+    font-size: 60px;
+    color: magenta;
+}
+.purple{
+    color: purple;
+}
+
+#blue {
+    color: blue;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+alignRight{
+    text-align: right;
+}
+
+.blackBackground{
+    background-color:    black;
+}
